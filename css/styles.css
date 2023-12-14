@@ -1,0 +1,81 @@
+#title{
+    background-color: #0c356a;
+    color: #fff;
+    font-size: 1.25rem;
+    font-family: open sans;
+    text-align: center;
+}
+.container-fluid{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.navbar-brand{
+    color: #fff;
+    font-size: 1.75rem;
+    font-family: open sans;
+    text-align: left;
+}
+.nav-link{
+    color: #fff;
+}
+.title-image{
+    width: 70%;
+    transform:rotate(8deg);
+    padding-left: 10%;
+}
+.carouselImage{
+    height: 150px;
+    width: 150px;
+    border-radius: 60%;
+}
+#reviews{
+    text-align: center;
+    font-family: open sans;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: lighter;
+}
+#footer{
+    background-color: #0c356a;
+    color: #fff;
+    font-family: open sans;
+    text-align: center;
+    font-size: 1.25rem;
+}
+#memberships{
+    text-align: center;
+    background-color: #0c356a;
+    color: #fff;
+    font-family: open sans;
+}
+.equipment{
+    background-color: #0c356a;
+    color: #fff;
+    font-size: 1.25rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.equipmentHeader{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0;
+    margin-right: 0;
+}
+.equipmentimage{
+    height: 150px;
+    width: 150px;
+    margin-left: 80%;
+}
+.equipmenttext{
+    margin-left: 80%;
+    margin: center;
+}
+#shakes{
+    text-align: center;
+    font-family: open sans;
+}
